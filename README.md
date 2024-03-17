@@ -15,6 +15,10 @@ This project is a simple login and registration form with a popup modal for user
 - JavaScript
 - Ionicons
 
+ ## Description
+
+This project aims to provide a user-friendly and visually appealing solution for implementing login and registration functionalities on web applications. The use of a popup modal enhances usability by keeping the forms easily accessible without cluttering the interface.
+
 ## Installation
 
 To run this project locally, follow these steps:
